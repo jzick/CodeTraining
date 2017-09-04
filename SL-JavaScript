@@ -3,3 +3,6 @@ Initial details.
 
 Use this when want to go to new line for output, similar to HTML.
 document.write("<br>");
+
+Increment and detrement operators are a little confusing with the examples.
+As well as x -= y being same as x = x - y
