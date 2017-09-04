@@ -6,3 +6,6 @@ document.write("<br>");
 
 Increment and detrement operators are a little confusing with the examples.
 As well as x -= y being same as x = x - y
+
+Need to understand the difference of being equal and identical for comparison operators
+
