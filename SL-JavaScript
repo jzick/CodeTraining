@@ -1,2 +1,5 @@
 https://www.sololearn.com/Play/JavaScript
 Initial details.
+
+Use this when want to go to new line for output, similar to HTML.
+document.write("<br>");
