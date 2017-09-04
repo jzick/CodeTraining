@@ -49,3 +49,5 @@ if (course == 1) {
 } else {
     document.write("<h1>JavaScript Tutorial</h1>");
 }
+
+
