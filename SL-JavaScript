@@ -9,3 +9,20 @@ As well as x -= y being same as x = x - y
 
 Need to understand the difference of being equal and identical for comparison operators
 
+&& - True(both)
+|| - True(one) - those called pipes I think
+! - Opposite
+Will need to find solution of how to keep opposites straight.
+
+Helpful just to do a single space in output
+document.write("\n")
+
+Conditional (Ternary) Operator
+var isAdult = (age < 18) ? "Too young": "Old enough";
+ connect as many expressions as you wish.
+
+Concatenate:
+var mystring1 = "I am learning ";
+var mystring2 = "JavaScript with SoloLearn.";
+document.write(mystring1 + mystring2);
+
