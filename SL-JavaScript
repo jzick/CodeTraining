@@ -50,4 +50,32 @@ if (course == 1) {
     document.write("<h1>JavaScript Tutorial</h1>");
 }
 
+Instead of doing else if, for multiple ones, can use switch statement.
+var day = 2;
+switch (day) {
+  case 1:
+    document.write("Monday");
+    break;
+  case 2:
+    document.write("Tuesday");
+    break;
+  case 3:
+    document.write("Wednesday");
+    break;
+  default:
+    document.write("Another day");
+}
+
+// Outputs "Tuesday"
+
+JavaScript has three types of loops: for, while, and do while. 
+The for loop is commonly used when creating a loop.
+The syntax:
+for (statement 1; statement 2; statement 3) {
+   code block to be executed
+}
+Statement 1 is executed before the loop (the code block) starts.
+Statement 2 defines the condition for running the loop (the code block).
+Statement 3 is executed each time after the loop (the code block) has been executed.
+
 
